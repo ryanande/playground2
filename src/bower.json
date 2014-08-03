@@ -1,0 +1,30 @@
+{
+  "name": "Playground2",
+  "version": "0.0.0",
+  "description": "Playground where we blow shit up! (codez that is).",
+  "moduleType": [
+    "amd",
+    "es6",
+    "yui"
+  ],
+  "keywords": [
+    "keywords",
+    "yo"
+  ],
+  "authors": [
+    "Ryan Anderson"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.flapstack.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "moment": "~2.7.0"
+  }
+}
